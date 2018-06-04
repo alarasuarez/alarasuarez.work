@@ -1,6 +1,11 @@
 ---
-title: Test Page 2
+title: Contacts
 date: 2018-05-09 22:33:00 Z
 ---
 
-Test Page 2
+Email:
+suarez.dany0@gmail.com
+alarasuarez@eagles.ewu.edu
+
+Phone:
+(509)379-6934
